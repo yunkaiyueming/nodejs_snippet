@@ -1,0 +1,10 @@
+
+
+
+curl localhost:3000/createdb
+curl http://localhost:3000/createtable
+curl http://localhost:3000/insert
+curl http://localhost:3000/insertmulti
+curl http://localhost:3000/delete?name=jQuery
+curl http://localhost:3000/update
+curl http://localhost:3000/select?name=vue
